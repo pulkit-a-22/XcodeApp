@@ -1,0 +1,24 @@
+PODS:
+  - Macaw (0.9.7):
+    - SWXMLHash
+  - SimplePDF (3.0.0)
+  - SWXMLHash (5.0.1)
+
+DEPENDENCIES:
+  - Macaw (= 0.9.7)
+  - SimplePDF
+
+SPEC REPOS:
+  trunk:
+    - Macaw
+    - SimplePDF
+    - SWXMLHash
+
+SPEC CHECKSUMS:
+  Macaw: 4a931baf9a9826b06d0d8ecf300014c962ab9d50
+  SimplePDF: 903143ede36965886997a5c1bc6b8940b082ba20
+  SWXMLHash: 9cc0c2e4807926c74377724aa8722ee5707a0485
+
+PODFILE CHECKSUM: dc4d665f3659767a565e39b29fffab219fa630e6
+
+COCOAPODS: 1.9.3
